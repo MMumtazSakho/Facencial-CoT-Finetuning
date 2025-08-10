@@ -28,6 +28,7 @@ This project adapts the **DeepSeek-R1-0528-Qwen3-8B** model into a **Facencial C
 | Phase III | 86%      |
 
 > Accuracy improves as more expert-labeled RAG data from GPT-5 is integrated.
+> All of the testing case available in Bajau_submission_updated.ipynb
 
 ---
 
@@ -138,3 +139,4 @@ cd <repo_folder>
 * **Self-Reflection**: Model critiques and revises its own answers.
 * **Dynamic Knowledge Updates**: Keep retrieval base in sync with new Facencial info.
 * **Multi-Metric Evaluation**: Include politeness, conciseness, and clarity scoring.
+
